@@ -1,0 +1,1 @@
+These classes are part of a project which searches web pages in Wikipedia statistics files to show increases in activity or spikes. Contained here is the Java portion of the code to accomplish our tasks.
